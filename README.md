@@ -13,6 +13,7 @@ Terraform Basic Commands:
 `$ terraform apply`
 
 ✅ Destroy Terraform Changes:
+
 `$ terraform destroy`
 
 
