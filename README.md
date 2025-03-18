@@ -10,7 +10,7 @@ Terraform Basic Commands:
 
 ✅ Apply Terraform Changes:
 
-`$ terraform apply`
+`$ terraform apply -auto-approve`
 
 ✅ Destroy Terraform Changes:
 
