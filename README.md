@@ -12,6 +12,9 @@ Terraform Basic Commands:
 
 `$ terraform apply`
 
+✅ Destroy Terraform Changes:
+`$ terraform destroy`
+
 
 💡 This repository requires the use of specific environment variables to authenticate and configure resources in your chosen platform. Some examples are:
 
