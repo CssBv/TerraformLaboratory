@@ -30,4 +30,5 @@ You need to setup two environment variables:
 Then you'd need to:
 
 `$ export TF_AWS_ACCESS_KEY_ID`
+
 `$ AWS_SECRET_ACCESS_KEY`
